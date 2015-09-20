@@ -35,7 +35,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/background.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -52,7 +52,7 @@ h6 {
 }
 
 .intro-divider {
-    width: 400px;
+    width: 60%;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
@@ -116,7 +116,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: url(../img/banner.jpg) no-repeat center center;
     background-size: cover;
 }
 
